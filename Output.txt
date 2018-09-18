@@ -1,6 +1,4 @@
-/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=53919:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/ll/Siloed/out/production/Siloed Main
-
-The water usage of the town is: 259264.328125
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=54276:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/ll/Siloed/out/production/Siloed Main
 
 The volume of the first tower is: 27355.679688
 
@@ -25,6 +23,10 @@ The volume of the tenth tower is: 8038.400391
 The volume of the eleventh tower is: 7884.540527
 
 The volume of the twelfth tower is: 31144.876953
+
+The total volume of the tower is: 183032.187500
+
+The water usage of the town is: 259264.328125
 
 The water that individual needs to save per day is 0.072332	cubic meters
 
